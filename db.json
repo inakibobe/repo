@@ -5,9 +5,9 @@
         "id":1,
         "titulo":"The Godfather",
         "director": "Francis Ford Coppola",
-        "fecha_publicación": "1972",
+        "fecha_publicacion": "1972",
         "genero":"Crimen/Drama",
-        "valoración":"5"
+        "valoracion":"5"
         
     } ,
 
@@ -16,9 +16,9 @@
         "id":2,
         "titulo":"In the name of the father",
         "director": "Jim Sheridan",
-        "fecha_publicación": "1993",
+        "fecha_publicacion": "1993",
         "genero":"Drama",
-        "valoración":"4"
+        "valoracion":"4"
     } ,
 
 
@@ -26,9 +26,9 @@
        "id":3,
        "titulo":"The lord of the rings : the fellowship of the ring",
         "director": "Peter Jackson",
-        "fecha_publicación": "2001",
+        "fecha_publicacion": "2001",
         "genero":"Fantasía/Aventura",
-        "valoración":"4"
+        "valoracion":"4"
     } ,
 
 
@@ -36,9 +36,9 @@
        "id":4,
        "titulo":"Life of Brian",
         "director": "Terry Jones",
-        "fecha_publicación": "1979",
+        "fecha_publicacion": "1979",
         "genero":"Comedia",
-        "valoración":"4"
+        "valoracion":"4"
     } ,
 
 
@@ -46,9 +46,9 @@
         "id":5,
         "titulo":"The Matrix",
         "director": "Lana Wachowski",
-        "fecha_publicación": "1999",
+        "fecha_publicacion": "1999",
         "genero":"Ciencia ficcion",
-        "valoración":"4"
+        "valoracion":"4"
     } 
 
      
